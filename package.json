@@ -1,0 +1,26 @@
+{
+  "name": "chieut5tuan4",
+  "version": "1.0.0",
+  "description": "HuynhTuan-2280603548",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuynhTuan9251/Chieut5Tuan4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuynhTuan9251/Chieut5Tuan4/issues"
+  },
+  "homepage": "https://github.com/HuynhTuan9251/Chieut5Tuan4#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
